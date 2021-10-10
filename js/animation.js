@@ -88,7 +88,7 @@ const transition = (currentScene) => {
     one by one, a button(bulb) appears and the user is asked to click the button to swith on the lights.
 */ 
 
-CTAtext.innerHTML = "Click the Light Bulb.";
+CTAtext.innerHTML = "Click the Light Bulb Chinu broo.";
 
 readMsg(blackText);
 
@@ -105,7 +105,7 @@ button.addEventListener("click",function(){
 
         light.play();
         transition(darkroom);
-        CTAtext.innerHTML = "Click the Door";
+        CTAtext.innerHTML = "Chinu bc 😗 Click the Door ";
         setTimeout(function() {
             button.classList.add("door-out");
             button.classList.remove("switch");
@@ -142,7 +142,7 @@ button.addEventListener("click",function(){
         
         door.play();
         transition(hallway);
-        CTAtext.innerHTML = "Click the Gift";
+        CTAtext.innerHTML = "Click the Gift 🌚🌝 Noob";
         setTimeout(function() {
             button.classList.add("gift");
             button.classList.remove("door-in");
@@ -176,7 +176,7 @@ button.addEventListener("click",function(){
             return;
         }
 
-        document.querySelector(".HBD").textContent = "May your soul rest in peace";
+        document.querySelector(".HBD").textContent = "Happy Birthday Chinu Broo";
 
         frames[1].style.display = "flex";
 
