@@ -44,8 +44,7 @@ Alternatively, you can also manually replace [Asset.png](./resources/img/Asset.p
 - <a href='https://www.freepik.com/vectors/background'>Background vector created by brgfx - www.freepik.com</a>
 - <a href='https://www.freepik.com/vectors/halloween'>Halloween vector created by vectorpouch - www.freepik.com</a>
 
+# Deploy JS-Portfolio on Vercel
+[![Deploy with Vercel](https://vercel.co/button)](https://vercel.co/new/project?template=https://github.com/likucs/Happy-Birthday-Card)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy/)
-
-# Credit 
- Liku Cs 
+# Credits
