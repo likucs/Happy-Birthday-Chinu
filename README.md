@@ -48,3 +48,4 @@ Alternatively, you can also manually replace [Asset.png](./resources/img/Asset.p
 [![Deploy with Vercel](https://vercel.co/button)](https://vercel.co/new/project?template=https://github.com/likucs/Happy-Birthday-Card)
 
 # Credits
+- Liku Cs 
