@@ -1,4 +1,4 @@
-# Happy Birthday Card
+# Happy Birthday Card For Chinu Bot
 
 A Web based birthday card to wish your friends and family in a unique way.
 
