@@ -7,7 +7,7 @@ const config = {
 
     nickname: "Bff", // nickname(optional)
 
-    pic: "https://telegra.ph/file/ca90d2fe7143d725ba983.jpg", //image url of recipients (Mandatory)
+    pic: "https://telegra.ph/file/08da0f54d195f297365ba.jpg", //image url of recipients (Mandatory)
 
     showScrollMsg: true, // set to false if you do not want the scrolling message
 };
